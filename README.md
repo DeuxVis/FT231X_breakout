@@ -7,6 +7,13 @@ This is a breakout board for the USB to UART (serial) chip FT231X from FTDI.
 *   For prototyping purpose with that IC - I'm curious about the CBUS pins possibilities.
 *   Or for straight use as a 3.3V - 5V tolerant - USB to serial converter, for instance to program some µcontrollers (ESP8266 anyone ?).
 
+## I want some !
+
+Shared on those fabrication services - none tested yet, waiting for delivery :
+
+* [PCBs.io](https://PCBs.io/share/rwxDz) a little cheaper.
+* [OSH Park](https://oshpark.com/shared_projects/8gXq2whh) purpler.
+
 ## Motivation
 
 I needed this breakout board to prototype a project of mine which would involve that FTDI chip.
