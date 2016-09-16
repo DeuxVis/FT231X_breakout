@@ -2,7 +2,9 @@
 
 This is a breakout board for the USB to UART (serial) chip FT231X from FTDI.
 
-![Board Preview](https://github.com/DeuxVis/FT231X_breakout/blob/master/Doc/Preview_PCBs.io_top.png?raw=true "Board top as previewed on PCBs.io")
+![Board Preview](https://github.com/DeuxVis/FT231X_breakout/blob/master/Doc/Preview_PCBs.io_top.thumb.jpg?raw=true "Board top as previewed on PCBs.io")
+![Boards Top](https://github.com/DeuxVis/FT231X_breakout/blob/master/Doc/bare_boards_top.jpg?raw=true "Board top as made by OSHPark and PCBs.io")
+![Boards Bottom](https://github.com/DeuxVis/FT231X_breakout/blob/master/Doc/bare_boards_bottom.jpg?raw=true "Board bottom as made by OSHPark and PCBs.io")
 
 ## Example uses
 
