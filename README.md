@@ -17,7 +17,7 @@ This is a breakout board for the USB to UART (serial) chip FT231X from FTDI.
 Shared on those fabrication services - not fully tested yet, quick test seems to indicate they work fine.
 
 * [PCBs.io](https://PCBs.io/share/rwxDz) a little cheaper.
-* [OSH Park](https://oshpark.com/shared_projects/8gXq2whh) purpler.
+* [OSH Park](https://oshpark.com/shared_projects/f9qFRt6w) purpler.
 
 ## Motivation
 
